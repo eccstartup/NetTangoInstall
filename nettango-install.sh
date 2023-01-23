@@ -8,14 +8,14 @@ cd ./NetTango
 git submodule update --init --recursive
 npm link
 npm link @netlogo/nettango
+npm audit fix
 npm run build
 
 # copy files
 cp nettango.js ../Galapagos/target/web/public/main/nettango/nettango.js
 cp nettango.css ../Galapagos/target/web/public/main/nettango/nettango.css
 
-cd ../Galapagos
-cp ./target/web/public/main/nettango/nt-models ./public/nt-modelslib
+cp -R ./nt-models/. ../Galapagos/public/nt-modelslib
 
-# run
+cd ../Galapagos
 sbt run
