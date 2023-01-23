@@ -5,6 +5,7 @@ git clone https://github.com/NetLogo/Galapagos
 
 # build nettango.js and nettango.css
 cd ./NetTango
+git submodule update --init --recursive
 npm link
 npm link @netlogo/nettango
 npm run build
