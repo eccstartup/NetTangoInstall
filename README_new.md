@@ -41,3 +41,6 @@ nt01目录下面
 
 * Galapagos目录下执行`sbt run`
 * 访问[http://localhost:9000/nettango-builder](http://localhost:9000/nettango-builder)
+
+## 脚本
+* [https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install.sh)
