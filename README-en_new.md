@@ -34,7 +34,7 @@ Reference: [https://github.com/NetLogo/Galapagos/blob/master/scripts/nettango-pa
 
 * Copy `NetTango/nettango.js` to `Galapagos/target/web/public/main/nettango/nettango.js`
 * Copy `NetTango/nettango.css` to `Galapagos/target/web/public/main/nettango/nettango.css`
-* Copy all files under `Galapagos/target/web/public/main/nettango/nt-models` to `Galapagos/public/nt-modelslib`
+* Copy all files under `NetTango/nt-models` to `Galapagos/public/nt-modelslib`
 
 
 ### Run
@@ -43,6 +43,5 @@ Reference: [https://github.com/NetLogo/Galapagos/blob/master/scripts/nettango-pa
 * Visit [http://localhost:9000/nettango-builder](http://localhost:9000/nettango-builder)
 
 ### Scripts
-## 脚本
 * [nettango-install.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install.sh)
 * [nettango-update.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-update.sh)
