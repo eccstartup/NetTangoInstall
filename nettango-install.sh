@@ -12,8 +12,8 @@ npm audit fix
 npm run build
 
 # copy files
-cp nettango.js ../Galapagos/target/web/public/main/nettango/nettango.js
-cp nettango.css ../Galapagos/target/web/public/main/nettango/nettango.css
+#cp nettango.js ../Galapagos/target/web/public/main/@netlogo/nettango/nettango.js
+#cp nettango.css ../Galapagos/target/web/public/main/@netlogo/nettango/nettango.css
 
 cp -R ./nt-models/. ../Galapagos/public/nt-modelslib
 
