@@ -1,5 +1,8 @@
 # NetTango 本地安装
 
+## TL;DR
+* [nettango-install-simple.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install-simple.sh)
+
 
 ### 克隆仓库
 
