@@ -34,7 +34,7 @@ nt01目录下面
 
 * `NetTango/nettango.js` 到 `Galapagos/target/web/public/main/nettango/nettango.js`
 * `NetTango/nettango.css` 到 `Galapagos/target/web/public/main/nettango/nettango.css`
-* `Galapagos/target/web/public/main/nettango/nt-models` 到 `Galapagos/public/nt-modelslib`
+* `NetTango/nt-models` 到 `Galapagos/public/nt-modelslib`
 
 
 ### 运行
