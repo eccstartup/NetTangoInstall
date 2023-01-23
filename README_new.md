@@ -28,7 +28,7 @@ nt01目录下面
 
 * NetTango目录下执行`npm link`和`npm link @netlogo/nettango`
 * Galapagos目录下执行`sbt run`，成功后`Ctrl-C` kill掉即可
-* NetTango目录下执行`yarn build`生成`nettango.js`和`nettango.css`
+* NetTango目录下执行`npm run build`生成`nettango.js`和`nettango.css`
 
 
 ### 拷贝文件
