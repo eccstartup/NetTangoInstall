@@ -1,5 +1,7 @@
 # NetTango Install Guide
 
+### TL;DR
+* [nettango-install-simple.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install-simple.sh)
 
 ### Clone repos
 
