@@ -1,9 +1,11 @@
 #!/bin/bash
 
+cd ./NetTango
 git pull https://github.com/NetLogo/NetTango
+cd ../Galapagos
 git pull https://github.com/NetLogo/Galapagos
 
-cd ./NetTango
+cd ../NetTango
 git submodule update --remote --recursive
 
 npm link
