@@ -1,7 +1,7 @@
 # NetTango Install Guide
 
 ### Two Steps
-* [nettango-install-simple.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install-simple.sh)
+* [nettango-install.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install.sh)
 * Visit http://localhost:9000/nettango-builder
 
 ### Install building essentials
