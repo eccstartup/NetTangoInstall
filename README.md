@@ -1,7 +1,7 @@
 # NetTango 本地安装
 
 ### 分两步
-* run [nettango-install-simple.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install.sh)
+* run [nettango-install.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-install.sh)
 * Visit http://localhost:9000/nettango-builder
 
 ### 安装软件
