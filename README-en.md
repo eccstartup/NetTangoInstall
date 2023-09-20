@@ -12,7 +12,6 @@
 
 Please Google how to do it.
 
-
 ### Scripts
 * [nettango-update.sh](https://github.com/eccstartup/NetTangoInstall/blob/master/nettango-update.sh)
 
